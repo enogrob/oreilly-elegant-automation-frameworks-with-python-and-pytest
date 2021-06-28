@@ -31,7 +31,7 @@ Chapter 3 : The Pytest Framework
 [x] Customizing Test Runs with the Command Line and Configuration Files 39m 52s
 [x] Handling Skips and Expected Failures 21m 6s
 [x] Cross-Browser and Data-driven testing with parametrize 29m 42s
-[ ] Fast Testing with Pytest-xdist, and Parallel vs Concurrent 25m 56s
+[x] Fast Testing with Pytest-xdist, and Parallel vs Concurrent 25m 56s
 
 Chapter 4 : Writing Great Tests
 [ ] Writing Unit Tests (White Box Testing) 37m 5s
