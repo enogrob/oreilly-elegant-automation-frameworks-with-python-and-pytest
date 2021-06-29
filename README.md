@@ -34,7 +34,7 @@ Chapter 3 : The Pytest Framework
 [x] Fast Testing with Pytest-xdist, and Parallel vs Concurrent 25m 56s
 
 Chapter 4 : Writing Great Tests
-[ ] Writing Unit Tests (White Box Testing) 37m 5s
+[x] Writing Unit Tests (White Box Testing) 37m 5s
 [ ] Running Unit Tests with Tox 27m 35s
 [ ] Writing Functional Tests (Black/Grey Box Testing) 19m 8s
 ```
