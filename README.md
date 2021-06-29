@@ -35,6 +35,6 @@ Chapter 3 : The Pytest Framework
 
 Chapter 4 : Writing Great Tests
 [x] Writing Unit Tests (White Box Testing) 37m 5s
-[ ] Running Unit Tests with Tox 27m 35s
-[ ] Writing Functional Tests (Black/Grey Box Testing) 19m 8s
+[x] Running Unit Tests with Tox 27m 35s
+[x] Writing Functional Tests (Black/Grey Box Testing) 19m 8s
 ```
