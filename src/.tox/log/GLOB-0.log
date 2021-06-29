@@ -1,0 +1,33 @@
+action: GLOB, msg: packaging
+cwd: /home/rnogueira/Things/Projects/oreilly-elegant-automation-frameworks-with-python-and-pytest/src
+cmd: /usr/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
+running sdist
+running egg_info
+writing elegantcasing.egg-info/PKG-INFO
+writing top-level names to elegantcasing.egg-info/top_level.txt
+writing dependency_links to elegantcasing.egg-info/dependency_links.txt
+reading manifest file 'elegantcasing.egg-info/SOURCES.txt'
+writing manifest file 'elegantcasing.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating elegantcasing-1.0.1
+creating elegantcasing-1.0.1/elegantcasing.egg-info
+copying files to elegantcasing-1.0.1...
+copying setup.py -> elegantcasing-1.0.1
+copying elegantcasing.egg-info/PKG-INFO -> elegantcasing-1.0.1/elegantcasing.egg-info
+copying elegantcasing.egg-info/SOURCES.txt -> elegantcasing-1.0.1/elegantcasing.egg-info
+copying elegantcasing.egg-info/dependency_links.txt -> elegantcasing-1.0.1/elegantcasing.egg-info
+copying elegantcasing.egg-info/top_level.txt -> elegantcasing-1.0.1/elegantcasing.egg-info
+Writing elegantcasing-1.0.1/setup.cfg
+creating '.tox/dist/elegantcasing-1.0.1.zip' and adding 'elegantcasing-1.0.1' to it
+adding 'elegantcasing-1.0.1'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info'
+adding 'elegantcasing-1.0.1/setup.cfg'
+adding 'elegantcasing-1.0.1/setup.py'
+adding 'elegantcasing-1.0.1/PKG-INFO'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/top_level.txt'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/PKG-INFO'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/SOURCES.txt'
+adding 'elegantcasing-1.0.1/elegantcasing.egg-info/dependency_links.txt'
+removing 'elegantcasing-1.0.1' (and everything under it)

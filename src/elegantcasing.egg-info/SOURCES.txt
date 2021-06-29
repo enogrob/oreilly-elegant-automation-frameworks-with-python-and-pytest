@@ -1,0 +1,5 @@
+setup.py
+elegantcasing.egg-info/PKG-INFO
+elegantcasing.egg-info/SOURCES.txt
+elegantcasing.egg-info/dependency_links.txt
+elegantcasing.egg-info/top_level.txt
